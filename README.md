@@ -9,5 +9,5 @@ El archivo [Colab](https://github.com/LautaroOchotorena/Redes-Neuronales-Final/b
 
 Se **recomienda** ver la exposición del trabajo dada en [Final](https://github.com/LautaroOchotorena/Redes-Neuronales-Final/blob/main/Final.pdf).
 
-**Principales requerimientos:** <br>
-Python, Numpy, PyTorch, Seaborn y Matplotlib.
+**Principales librerías:** <br>
+Numpy, PyTorch, Seaborn y Matplotlib.
