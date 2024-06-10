@@ -1,4 +1,4 @@
-# Redes Neuronales Final
+# Clasificador de ropa
 Este es el **proyecto final** de la materia "Redes Neuronales" dictada por la **Universidad de Córdoba**.
 
 EL objetivo es la implementación de **autoencoders** y redes neuronales de **clasificación** jugando con sus hiperparámetros.
